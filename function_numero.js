@@ -1,0 +1,1 @@
+// las funciones con parametros pueden recibir varios valores, para el seguiente ejemplo
